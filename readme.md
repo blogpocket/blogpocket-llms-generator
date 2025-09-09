@@ -48,7 +48,3 @@ Este plugin no recoge ni transmite ningún dato personal. Todo el procesamiento 
 
 ⚠️ Antes de usar en un sitio en producción, prueba el plugin en un entorno de pruebas.  
 Asegúrate de que tu instalación tiene permisos de escritura adecuados.
-
-## Captura de pantalla
-
-![Captura](blogpocket-llms-generator-banner-16_9.png)
